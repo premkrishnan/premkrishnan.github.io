@@ -73,7 +73,7 @@ Solution:<br />
 <h4>
 9.5. git push origin main	<i>#push to the main or other branches</i>
 </h4>
-
+<hr />
 </div>
 
 </body>
