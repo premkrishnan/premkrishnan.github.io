@@ -2,12 +2,11 @@
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=utf-8">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
 </head>
 
-<body lang=EN-SG style='word-wrap:break-word'>
+<body>
 
-<div class=WordSection1>
+<div>
 <h2>How to get started with Git and GitHub?</h2>
 <h4>
   1. brew install git    <i>#install git</i><br />
